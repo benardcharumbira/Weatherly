@@ -1,1 +1,1 @@
-React Weather app created using the open weather API
+ReactJS Weather app created utilizing the open weather API
